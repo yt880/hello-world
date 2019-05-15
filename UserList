@@ -1,0 +1,5 @@
+Private Sub UserListBtn_Click(sender As Object, e As EventArgs) Handles UserListBtn.Click
+
+    UserListForm.ShowDialog()
+    
+End Sub
